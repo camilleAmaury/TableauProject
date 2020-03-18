@@ -19,9 +19,6 @@
     <datasource caption='gender-indicators-for-china-1 (gender-indicators-for-china-1)' inline='true' name='federated.1beywr31nkz09218kjeqb0xrq1uy' version='18.1'>
       <connection class='federated'>
         <named-connections>
-          <named-connection caption='gender-indicator' name='excel-direct.0kegxy41tjj9k218zzqrs13y987h'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/CAJug/Documents/projet/TableauProject/gender-indicator.xlsx' interpretationMode='0' password='' server='' validate='no' />
-          </named-connection>
           <named-connection caption='gender' name='excel-direct.1hgmi2t1tcjrud14xtjlm0y837dp'>
             <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/CAJug/Documents/projet/TableauProject/gender.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
@@ -1335,8 +1332,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1000' minheight='1000' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='22' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='21' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='24' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='23' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='39562' id='3' is-fixed='true' name='Literacy gender' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1553,8 +1550,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1800' minheight='1800' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='26' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='25' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='28' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='27' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='277' h='35625' id='1' is-fixed='true' name='Women Employment sector evolution' w='24600' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1755,8 +1752,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1000' minheight='1000' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='20' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='19' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='22' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='21' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='265' h='34125' id='3' is-fixed='true' name='Over 65 gender' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1899,8 +1896,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='750' minheight='750' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='24' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='23' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='26' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='25' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='74000' id='3' is-fixed='true' name='Women/Men Agriculture' w='49200' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2073,8 +2070,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1300' minheight='1300' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='30' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='29' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='32' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='31' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='207' h='26900' id='9' is-fixed='true' name='Wage difference gender' w='49200' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2201,7 +2198,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='14' />
+      <active id='-1' />
       <simple-id uuid='{D99AE462-3F02-4F10-869D-D1137F11DF64}' />
     </window>
     <window class='dashboard' name='Rural Gender gap'>
@@ -2223,7 +2220,7 @@
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='14' />
+      <active id='-1' />
       <simple-id uuid='{B27B6CF2-8CAE-4571-9AAC-8D7F89DC4294}' />
     </window>
     <window class='dashboard' name='Wage and Wealth Gender'>
@@ -2281,7 +2278,7 @@
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='14' />
+      <active id='-1' />
       <simple-id uuid='{03CF42FC-F00D-4188-A8A1-8167CF0CC1D8}' />
     </window>
     <window class='worksheet' name='Women Employment sector evolution'>
