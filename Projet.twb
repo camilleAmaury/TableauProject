@@ -273,32 +273,6 @@
               </multibucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[none:Indicator Name:nk]&#10;[none:Country Name:nk]' type='palette'>
-            <map to='#4e79a7'>
-              <multibucket>
-                <bucket>&quot;Condom use, population ages 15-24, male (\% of males ages 15-24)&quot;</bucket>
-                <bucket>&quot;India&quot;</bucket>
-              </multibucket>
-            </map>
-            <map to='#76b7b2'>
-              <multibucket>
-                <bucket>&quot;Condom use, population ages 15-24, male (\% of males ages 15-24)&quot;</bucket>
-                <bucket>&quot;Niger&quot;</bucket>
-              </multibucket>
-            </map>
-            <map to='#b07aa1'>
-              <multibucket>
-                <bucket>&quot;Condom use, population ages 15-24, female (\% of females ages 15-24)&quot;</bucket>
-                <bucket>&quot;India&quot;</bucket>
-              </multibucket>
-            </map>
-            <map to='#ff9da7'>
-              <multibucket>
-                <bucket>&quot;Condom use, population ages 15-24, female (\% of females ages 15-24)&quot;</bucket>
-                <bucket>&quot;Niger&quot;</bucket>
-              </multibucket>
-            </map>
-          </encoding>
           <encoding attr='color' field='[none:Indicator Name:nk]' type='palette'>
             <map to='#4e79a7'>
               <bucket>&quot;Access to anti-retroviral drugs, male (\%)&quot;</bucket>
@@ -467,6 +441,32 @@
             </map>
             <map to='#ff9da7'>
               <bucket>&quot;Employment in agriculture, male (\% of male employment) (modeled ILO estimate)&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Indicator Name:nk]&#10;[none:Country Name:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <multibucket>
+                <bucket>&quot;Condom use, population ages 15-24, male (\% of males ages 15-24)&quot;</bucket>
+                <bucket>&quot;India&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#76b7b2'>
+              <multibucket>
+                <bucket>&quot;Condom use, population ages 15-24, male (\% of males ages 15-24)&quot;</bucket>
+                <bucket>&quot;Niger&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#b07aa1'>
+              <multibucket>
+                <bucket>&quot;Condom use, population ages 15-24, female (\% of females ages 15-24)&quot;</bucket>
+                <bucket>&quot;India&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ff9da7'>
+              <multibucket>
+                <bucket>&quot;Condom use, population ages 15-24, female (\% of females ages 15-24)&quot;</bucket>
+                <bucket>&quot;Niger&quot;</bucket>
+              </multibucket>
             </map>
           </encoding>
           <encoding attr='color' field='[none:Country Name:nk]' type='palette'>
@@ -2275,8 +2275,8 @@
           </layout-options>
           <size maxheight='1000' minheight='1000' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='48' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='47' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='50' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='49' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='5250' id='44' type='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2583,8 +2583,8 @@
           </layout-options>
           <size maxheight='2200' minheight='2200' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='60' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='59' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='62' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='61' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='5250' id='54' type='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2869,8 +2869,8 @@
           </layout-options>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='19' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='18' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='21' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='20' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='5250' id='7' type='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3042,8 +3042,8 @@
           </layout-options>
           <size maxheight='1200' minheight='1200' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='26' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='25' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='28' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='27' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
                 <zone h='5250' id='7' type='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3281,8 +3281,8 @@
           </layout-options>
           <size maxheight='1300' minheight='1300' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='51' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='50' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='53' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='52' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='5250' id='43' type='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3511,8 +3511,8 @@
           </layout-options>
           <size maxheight='800' minheight='800' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='49' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='48' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='51' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='50' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='5250' id='45' type='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3704,8 +3704,8 @@
           </layout-options>
           <size maxheight='1050' minheight='1050' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='46' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='45' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='48' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='47' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
                 <zone h='5250' id='35' type='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3924,8 +3924,8 @@
           </layout-options>
           <size maxheight='1300' minheight='1300' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='56' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='55' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='58' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='57' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='5250' id='52' type='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -4124,7 +4124,7 @@
       <active id='-1' />
       <simple-id uuid='{03CF42FC-F00D-4188-A8A1-8167CF0CC1D8}' />
     </window>
-    <window class='dashboard' maximized='true' name='Health comparaison by country'>
+    <window class='dashboard' name='Health comparaison by country'>
       <viewpoints>
         <viewpoint name='Evolution of obesity in the 4 countries'>
           <zoom type='entire-view' />
@@ -4142,7 +4142,7 @@
       <active id='-1' />
       <simple-id uuid='{E10618EC-56A1-4D37-9A35-30A0173F39E7}' />
     </window>
-    <window class='dashboard' name='Sexuality in different countries'>
+    <window class='dashboard' maximized='true' name='Sexuality in different countries'>
       <viewpoints>
         <viewpoint name='Condom use'>
           <zoom type='entire-view' />
