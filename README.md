@@ -36,15 +36,13 @@
 
 [![Tableau][product-screenshot]](https://www.tableau.com/)
 
-See our project deployed here : xxx.com
+See our project deployed here : https://eu-west-1a.online.tableau.com/#/site/interactionandapplications/workbooks/320418/views
 
-Il nous reste à faire :
-
---> des comparaisons entre pays avec comme références la Chine à chaque fois
---> Comparaison sur des indicateurs (moy, mediane ...)
---> essayer de faire un diagramme radar
---> poursuivre les tableaux de bords qui s'enchainent
---> rédiger les interprétations
+We choose a mix of datasets that you can find on DataWorld, they both deals with Gender indicators in different countries :
+- [China](https://data.world/hdx/04c0f40c-b7ad-4a81-8693-4046b7f28252)
+- [India](https://data.world/hdx/a96ff63c-dec9-4b8d-90f8-587e3ba1a3d7)
+- [Niger](https://data.world/hdx/079b3444-3bba-4ade-976b-e51f9cdf0917)
+- [Canada](https://data.world/hdx/1234bf2f-9c57-4200-9277-94c0ba919d3d)
 
 
 <!-- LICENSE -->
