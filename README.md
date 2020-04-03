@@ -36,7 +36,7 @@
 
 [![Tableau][product-screenshot]](https://www.tableau.com/)
 
-See our project deployed here : https://eu-west-1a.online.tableau.com/#/site/interactionandapplications/workbooks/320418/views
+See our project deployed here : [Online Tableau](https://eu-west-1a.online.tableau.com/t/interactionandapplications/views/InteractionAndApplications/Welcome?:origin=card_share_link&:embed=n)
 
 We choose a mix of datasets that you can find on DataWorld, they both deals with Gender indicators in different countries :
 - [China](https://data.world/hdx/04c0f40c-b7ad-4a81-8693-4046b7f28252)
